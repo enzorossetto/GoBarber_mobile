@@ -32,6 +32,7 @@
     "import/prefer-default-export": "off",
     "prettier/prettier": "error",
     "no-use-before-define": "off",
+    "no-unused-expressions": "warn",
     "import/extensions": [
       "error",
       "ignorePackages",
